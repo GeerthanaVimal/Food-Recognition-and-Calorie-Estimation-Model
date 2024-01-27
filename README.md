@@ -1,3 +1,5 @@
-# fkfmk
+# Food-Recognition-and-Calorie-Estimation-Model
 
-Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+Objective:Develop a model that can accurately recognize food items from images and estimate their calorie content, enabling users to track their dietary intake and make informed food choices.
+
+Dataset :- https://www.kaggle.com/dansbecker/food-10
